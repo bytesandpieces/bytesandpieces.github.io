@@ -86,4 +86,4 @@ exclude:
   - CNAME
 
 # hacker theme
-theme: jekyll-theme-hacker
+theme: jekyll-theme-tactile
